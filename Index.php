@@ -14,7 +14,7 @@
 		<div>
 			<div id="Discipliner" class="discipliner">
 			<?php include 'Discipliner.php';?>
-
+			
 							
 			</div>
 	
