@@ -13,7 +13,7 @@
 		
 		<div>
 			<div id="Discipliner" class="discipliner">
-			<?php include 'Discipliner.php';?>
+			<?php include 'discipliner.php';?>
 			
 							
 			</div>
