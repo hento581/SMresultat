@@ -53,21 +53,22 @@
 				if (isset($_GET["id"])) {
 				if($_GET["id"] === "3") : ?> 
 				
-					<a href=" <?php echo $winsplits ?>22926" target="_blank">- 2012</a><br>
-					<a href="<?php echo $winsplits ?>18574" target="_blank">- 2011</a><br>
-					<a href="<?php echo $winsplits ?>15075" target="_blank">- 2010</a><br>
-					<a href="<?php echo $winsplits ?>12743" target="_blank">- 2009</a><br>
-					<a href="<?php echo $winsplits ?>10412" target="_blank">- 2008</a><br>
-					<a href="<?php echo $winsplits ?>8419" target="_blank">- 2007</a><br>
-					<a href="<?php echo $winsplits ?>6663" target="_blank">- 2006</a><br>
-					<a href="<?php echo $winsplits ?>5173" target="_blank">- 2005</a><br>
-					<a href="<?php echo $winsplits ?>3696" target="_blank">- 2004</a><br>
-					<a href="<?php echo $winsplits ?>2841" target="_blank">- 2003</a><br>
-					<a href="<?php echo $winsplits ?>1983" target="_blank">- 2002</a><br>
-					<a href="<?php echo $winsplits ?>1280" target="_blank">- 2001</a><br>
-					<a href="<?php echo $winsplits ?>610" target="_blank">- 2000</a><br>
-					<a href="<?php echo $winsplits ?>207" target="_blank">- 1999</a><br>
-					<a href="<?php echo $winsplits ?>39" target="_blank">- 1998</a><br>
+					<a href=" <?php echo $winsplits ?>23012" target="_blank">- 2012</a><br>
+					<a href="<?php echo $winsplits ?>18637" target="_blank">- 2011</a><br>
+					<a href="<?php echo $winsplits ?>15144" target="_blank">- 2010</a><br>
+					<a href="<?php echo $winsplits ?>12651" target="_blank">- 2009</a><br>
+					<a href="<?php echo $winsplits ?>10467" target="_blank">- 2008</a><br>
+					<a href="<?php echo $winsplits ?>8453" target="_blank">- 2007</a><br>
+					<a href="<?php echo $winsplits ?>6701" target="_blank">- 2006</a><br>
+					<a href="<?php echo $winsplits ?>5223" target="_blank">- 2005</a><br>
+					<a href="<?php echo $winsplits ?>3721" target="_blank">- 2004</a><br>
+					<a href="<?php echo $winsplits ?>2869" target="_blank">- 2003</a><br>
+					<a href="<?php echo $winsplits ?>2008" target="_blank">- 2002</a><br>
+					<a href="<?php echo $winsplits ?>1291" target="_blank">- 2001</a><br>
+					<a href="<?php echo $winsplits ?>627" target="_blank">- 2000</a><br>
+					<a href="<?php echo $winsplits ?>215" target="_blank">- 1999</a><br>
+					<a href="<?php echo $winsplits ?>43" target="_blank">- 1998</a><br>
+					<a href="<?php echo $winsplits ?>6" target="_blank">- 1997</a><br>
 			
 			<?php endif; }?>
 				
